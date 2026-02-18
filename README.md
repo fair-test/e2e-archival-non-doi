@@ -1,2 +1,1 @@
-# e2e-archival-non-doi
-Codemeta with Software Heritage identifier
+# E2E Archival - Non-DOI
