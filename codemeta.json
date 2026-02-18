@@ -1,0 +1,21 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Test Software",
+  "description": "A test software with a non-DOI identifier (Software Heritage)",
+  "version": "1.0.0",
+  "license": "https://spdx.org/licenses/MIT",
+  "identifier": "swh:1:dir:abc123def456789",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Test",
+      "familyName": "User",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "FAIR Data Innovations Hub"
+      }
+    }
+  ],
+  "codeRepository": "https://github.com/fair-test/test-repo"
+}
